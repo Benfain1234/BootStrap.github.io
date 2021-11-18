@@ -1,0 +1,42 @@
+
+body{
+ margin: auto 0;
+ background: url(Main_back2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h2{
+	border: inset black;
+	text-align: center;
+    background-color: #a5b7d9;
+	
+}
+
+a{
+  
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+button{
+    border: inset black ;
+  border-radius: 300px;
+  width: 50vh;
+ background-image: linear-gradient(to right, #00BFFF, #FF1493);
+ height: 50px;
+}
+
+
+a{
+  color: black;
+    border: inset black ;
+  border-radius: 300px;
+  width: 50vh;
+ background-image: linear-gradient(to right, #00BFFF, #FF1493);
+ height: 50px;
+}

@@ -1,0 +1,40 @@
+.btn{
+	border: inset black ;
+  border-radius: 300px;
+  width: 50vh;
+ background-image: linear-gradient(to right, #00BFFF, #FF1493);
+ height: 50px;
+}
+h1{
+	@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+ 		font-family: 'Style Script', cursive;
+ 		 background-color: #F0FFFF;
+  text-align: center;
+  border: 5px inset blue;
+  display: inline-block;
+  color: blue;
+}
+body{
+	background: url(connect_background.JPG) no-repeat center center fixed;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+button{
+    border: inset black ;
+  border-radius: 300px;
+  width: 50vh;
+ background-image: linear-gradient(to right, #00BFFF, #FF1493);
+ height: 50px;
+}
+
+
+a{
+  color: black;
+    border: inset black ;
+  border-radius: 300px;
+  width: 15vh;
+ background-image: linear-gradient(to right, #00BFFF, #FF1493);
+ height: 50px;
+}
